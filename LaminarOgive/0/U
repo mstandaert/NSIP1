@@ -34,7 +34,7 @@ boundaryField
     inlet
     {
         type            fixedValue;
-        value           uniform (635 0 0);
+        value           uniform (641 0 0);
     }
     centreLeft
     {
