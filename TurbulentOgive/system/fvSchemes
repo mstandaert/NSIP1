@@ -1,0 +1,77 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    format      ascii;
+    class       dictionary;
+    location    "system";
+    object      fvSchemes;
+}
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+ddtSchemes
+{
+    default         localEuler; // Use steady-state since it's a RANS simulation
+}
+
+gradSchemes
+{
+    default         Gauss linear;
+
+    limited         cellLimited Gauss linear 1;
+    grad(U)         $limited;
+    grad(k)         $limited;
+    grad(omega)     $limited;
+}
+
+divSchemes
+{
+    default         none;
+
+    div(phi,U)      Gauss limitedLinear 0.75; // Divergence of velocity
+    div(phi,rho)    Gauss vanLeer;		// Second order accurate, limitedLinearV and vanLeer: Provide high resolution with minimal oscillations, suitable for compressible flows with shocks.
+    div(phi,p)      Gauss limitedLinear 1;  // Blended linear scheme
+    div(phi,k)      Gauss upwind;            // Divergence of k
+    div(phi,omega)  Gauss upwind;            // Divergence of omega
+    div(phi,h)      Gauss upwind;            // Divergence of enthalpy, upwind : Adds numerical diffusion for stability, useful for turbulence quantities
+    
+
+    //div(phi,Ek)     Gauss linearUpwind grad(Ek); // Energy-specific scheme
+    //div(phi,Ep)     Gauss linearUpwind grad(Ep); // Pressure energy-specific scheme
+
+    div((nuEff*dev2(T(grad(U))))) Gauss linear; // Stress divergence, Gauss linear : Second-order accurate for smooth fields, often used for viscous terms.
+}
+
+laplacianSchemes
+{
+    default         Gauss linear corrected; // Corrected for non-orthogonal meshes
+    //laplacian(nuEff,U) Gauss linear corrected; // Effective viscosity for velocity
+}
+
+interpolationSchemes
+{
+    default         linear; // Linear interpolation
+}
+
+snGradSchemes
+{
+    default         corrected; // Surface normal gradient with non-orthogonal correction
+}
+
+fluxRequired
+{
+    default         no;
+    p               yes;
+    phi             yes;
+}
+wallDist
+{
+    method meshWave;
+}
+
+// ************************************************************************* //

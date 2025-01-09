@@ -1,0 +1,3120 @@
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:17
+Host   : "ealin22.private.vki.eu"
+PID    : 139855
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:17
+Host   : "ealin22.private.vki.eu"
+PID    : 139856
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:17
+Host   : "ealin22.private.vki.eu"
+PID    : 139852
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:17
+Host   : "ealin22.private.vki.eu"
+PID    : 139853
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:17
+Host   : "ealin22.private.vki.eu"
+PID    : 139854
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:17
+Host   : "ealin22.private.vki.eu"
+PID    : 139857
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:17
+Host   : "ealin22.private.vki.eu"
+PID    : 139858
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:18
+Host   : "ealin22.private.vki.eu"
+PID    : 139859
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:18
+Host   : "ealin22.private.vki.eu"
+PID    : 139860
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:18
+Host   : "ealin22.private.vki.eu"
+PID    : 139862
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:18
+Host   : "ealin22.private.vki.eu"
+PID    : 139863
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:18
+Host   : "ealin22.private.vki.eu"
+PID    : 139864
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:18
+Host   : "ealin22.private.vki.eu"
+PID    : 139861
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:18
+Host   : "ealin22.private.vki.eu"
+PID    : 139865
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create time
+
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:18
+Host   : "ealin22.private.vki.eu"
+PID    : 139867
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 12-dcff2b94e86e
+Exec   : foamRun
+Date   : Jan 09 2025
+Time   : 13:57:18
+Host   : "ealin22.private.vki.eu"
+PID    : 139866
+I/O    : uncollated
+Case   : /students/2024/standaert/OpenFOAM/matias.standaert@vki.ac.be-12/NSIP1/LaminarOgive
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Create mesh for time = 0
+
+Selecting solver shockFluid
+Selecting solver shockFluid
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Selecting solver shockFluid
+Selecting solver shockFluid
+Selecting solver shockFluid
+Selecting solver shockFluid
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+Selecting solver shockFluid
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Selecting solver shockFluid
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Selecting solver shockFluid
+Selecting solver shockFluid
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Selecting solver shockFluid
+Selecting solver shockFluid
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Selecting solver shockFluid
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Selecting solver shockFluid
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Selecting turbulence model type laminar
+Selecting laminar stress model Stokes
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Selecting turbulence model type laminar
+Selecting laminar stress model Stokes
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Selecting turbulence model type laminar
+Selecting laminar stress model Stokes
+Selecting turbulence model type laminar
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Selecting turbulence model type laminar
+Selecting laminar stress model Stokes
+Selecting laminar stress model Stokes
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Selecting turbulence model type laminar
+Selecting turbulence model type laminar
+Selecting laminar stress model Stokes
+Selecting laminar stress model Stokes
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Selecting turbulence model type laminar
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Selecting laminar stress model Stokes
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Selecting turbulence model type laminar
+Selecting laminar stress model Stokes
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Selecting turbulence model type laminar
+Selecting turbulence model type laminar
+Selecting laminar stress model Stokes
+Selecting laminar stress model Stokes
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Selecting turbulence model type laminar
+Selecting turbulence model type laminar
+Selecting laminar stress model Stokes
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Selecting solver shockFluid
+Selecting laminar stress model Stokes
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Selecting turbulence model type laminar
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Selecting laminar stress model Stokes
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Using LTS
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Selecting solver shockFluid
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Selecting thermodynamics package 
+{
+    type            hePsiThermo;
+    mixture         pureMixture;
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy;
+}
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Selecting turbulence model type laminar
+Selecting laminar stress model Stokes
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Selecting turbulence model type laminar
+Selecting laminar stress model Stokes
+Selecting thermophysical transport type laminar
+Selecting default laminar thermophysical transport model unityLewisFourier
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Using LTS
+
+PIMPLE: No convergence criteria found
+
+
+PIMPLE: Operating solver in transient mode with 1 outer corrector
+PIMPLE: Operating solver in PISO mode
+
+
+
+Starting time loop
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 1e-07s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+ExecutionTime = 1.630359 s  ClockTime = 2 s
+
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 1.646726 s  ClockTime = 1 s
+
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+ExecutionTime = 1.633557 s  ClockTime = 1 s
+
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+ExecutionTime = 1.659312 s  ClockTime = 1 s
+
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+ExecutionTime = 1.657016 s  ClockTime = 1 s
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+ExecutionTime = 1.715237 s  ClockTime = 2 s
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+ExecutionTime = 1.737523 s  ClockTime = 2 s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+ExecutionTime = 1.752251 s  ClockTime = 2 s
+
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+ExecutionTime = 1.751236 s  ClockTime = 2 s
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+ExecutionTime = 1.733529 s  ClockTime = 1 s
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+ExecutionTime = 1.767875 s  ClockTime = 2 s
+
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+ExecutionTime = 1.76822 s  ClockTime = 1 s
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+ExecutionTime = 1.733606 s  ClockTime = 1 s
+
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+ExecutionTime = 1.783834 s  ClockTime = 1 s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+ExecutionTime = 1.84911 s  ClockTime = 1 s
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Ux, Initial residual = 1, Final residual = 2.67981236691398e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 1, Final residual = 2.7103035296082e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999999998960124, Final residual = 1.76415067556195e-08, No Iterations 2
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+smoothSolver:  Solving for e, Initial residual = 0.999999999523804, Final residual = 6.06132708193327e-08, No Iterations 2
+ExecutionTime = 1.99263 s  ClockTime = 3 s
+
+Flow time scale min/max = 5.13297525034897e-09, 6.79744593306206e-06
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+ExecutionTime = 2.41237 s  ClockTime = 3 s
+
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+ExecutionTime = 2.419194 s  ClockTime = 2 s
+
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+ExecutionTime = 2.405439 s  ClockTime = 2 s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+ExecutionTime = 2.432504 s  ClockTime = 2 s
+
+Smoothed flow time scale min/max = 5.13297525034897e-09, 2.34595097531888e-06
+Time = 2e-07s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+ExecutionTime = 2.433223 s  ClockTime = 2 s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+ExecutionTime = 2.484417 s  ClockTime = 3 s
+
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+ExecutionTime = 2.586056 s  ClockTime = 3 s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+ExecutionTime = 2.592866 s  ClockTime = 3 s
+
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+ExecutionTime = 2.595107 s  ClockTime = 3 s
+
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+ExecutionTime = 2.576421 s  ClockTime = 2 s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+ExecutionTime = 2.613531 s  ClockTime = 3 s
+
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+ExecutionTime = 2.613502 s  ClockTime = 2 s
+
+ExecutionTime = 2.570786 s  ClockTime = 2 s
+
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+ExecutionTime = 2.620723 s  ClockTime = 2 s
+
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+ExecutionTime = 2.647024 s  ClockTime = 2 s
+
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.185849593121451, Final residual = 2.91057705411982e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.999412670715013, Final residual = 2.07649301621689e-08, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.999417862493592, Final residual = 2.5616153424742e-08, No Iterations 2
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+smoothSolver:  Solving for e, Initial residual = 0.13460146250351, Final residual = 5.33023627332769e-09, No Iterations 2
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+ExecutionTime = 2.815718 s  ClockTime = 3 s
+
+Flow time scale min/max = 5.13253127696196e-09, 6.79744593306206e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+ExecutionTime = 3.184127 s  ClockTime = 4 s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+ExecutionTime = 3.188661 s  ClockTime = 3 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+ExecutionTime = 3.177236 s  ClockTime = 3 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+ExecutionTime = 3.203067 s  ClockTime = 3 s
+
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+ExecutionTime = 3.256546 s  ClockTime = 4 s
+
+ExecutionTime = 3.21115 s  ClockTime = 3 s
+
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13253127696196e-09, 1.91130114779096e-06
+Time = 3e-07s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+ExecutionTime = 3.430687 s  ClockTime = 4 s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+ExecutionTime = 3.432782 s  ClockTime = 4 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+ExecutionTime = 3.414832 s  ClockTime = 3 s
+
+ExecutionTime = 3.443806 s  ClockTime = 4 s
+
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+ExecutionTime = 3.440948 s  ClockTime = 3 s
+
+ExecutionTime = 3.458358 s  ClockTime = 4 s
+
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+ExecutionTime = 3.411526 s  ClockTime = 3 s
+
+ExecutionTime = 3.454371 s  ClockTime = 3 s
+
+ExecutionTime = 3.455259 s  ClockTime = 3 s
+
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.096804652438795, Final residual = 8.13935450225007e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.357790363715572, Final residual = 3.38413163813943e-09, No Iterations 2
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uz, Initial residual = 0.321413635959403, Final residual = 3.82393102082232e-09, No Iterations 2
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for e, Initial residual = 0.0660894670206042, Final residual = 1.84062833171396e-09, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 3.650533 s  ClockTime = 4 s
+
+Flow time scale min/max = 5.1320872080331e-09, 6.79744593306206e-06
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+ExecutionTime = 3.948061 s  ClockTime = 4 s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+ExecutionTime = 3.949055 s  ClockTime = 3 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 3.935545 s  ClockTime = 4 s
+
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+ExecutionTime = 3.969684 s  ClockTime = 4 s
+
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+ExecutionTime = 4.021379 s  ClockTime = 5 s
+
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+ExecutionTime = 3.978615 s  ClockTime = 4 s
+
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+Smoothed flow time scale min/max = 5.1320872080331e-09, 1.7660902283856e-06
+Time = 4e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+ExecutionTime = 4.268061 s  ClockTime = 5 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+ExecutionTime = 4.264366 s  ClockTime = 5 s
+
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+ExecutionTime = 4.24153 s  ClockTime = 4 s
+
+ExecutionTime = 4.231888 s  ClockTime = 4 s
+
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+ExecutionTime = 4.279677 s  ClockTime = 5 s
+
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+ExecutionTime = 4.292764 s  ClockTime = 5 s
+
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0670265997397108, Final residual = 4.56558147394039e-10, No Iterations 2
+ExecutionTime = 4.247088 s  ClockTime = 4 s
+
+ExecutionTime = 4.289576 s  ClockTime = 4 s
+
+ExecutionTime = 4.292826 s  ClockTime = 4 s
+
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Uy, Initial residual = 0.221394401502129, Final residual = 1.53039408563123e-09, No Iterations 2
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uz, Initial residual = 0.187938329039138, Final residual = 1.63988608119475e-09, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for e, Initial residual = 0.0430229006015027, Final residual = 1.13103822226434e-09, No Iterations 2
+ExecutionTime = 4.467867 s  ClockTime = 5 s
+
+Flow time scale min/max = 5.13164636561513e-09, 6.79744593306206e-06
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+ExecutionTime = 4.714022 s  ClockTime = 5 s
+
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+ExecutionTime = 4.709233 s  ClockTime = 4 s
+
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+ExecutionTime = 4.691913 s  ClockTime = 4 s
+
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 4.73272 s  ClockTime = 4 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+ExecutionTime = 4.778689 s  ClockTime = 5 s
+
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+ExecutionTime = 4.742706 s  ClockTime = 4 s
+
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+Smoothed flow time scale min/max = 5.13164636561513e-09, 1.70298154286015e-06
+Time = 5e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+ExecutionTime = 5.023117 s  ClockTime = 5 s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+ExecutionTime = 5.091819 s  ClockTime = 6 s
+
+ExecutionTime = 5.108225 s  ClockTime = 6 s
+
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+ExecutionTime = 5.069479 s  ClockTime = 5 s
+
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+ExecutionTime = 5.115372 s  ClockTime = 6 s
+
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0523289668048973, Final residual = 3.22573464238913e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uy, Initial residual = 0.16220926858098, Final residual = 9.44680239242606e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uz, Initial residual = 0.133864842690464, Final residual = 9.99893206364589e-10, No Iterations 2
+ExecutionTime = 5.080722 s  ClockTime = 5 s
+
+ExecutionTime = 5.13283 s  ClockTime = 6 s
+
+ExecutionTime = 5.122108 s  ClockTime = 5 s
+
+ExecutionTime = 5.125769 s  ClockTime = 5 s
+
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for e, Initial residual = 0.0323273321324147, Final residual = 8.60668114650989e-10, No Iterations 2
+ExecutionTime = 5.275789 s  ClockTime = 6 s
+
+Flow time scale min/max = 5.13121050692157e-09, 6.79744593306206e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+ExecutionTime = 5.471072 s  ClockTime = 6 s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+ExecutionTime = 5.465645 s  ClockTime = 5 s
+
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 5.44542 s  ClockTime = 5 s
+
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+ExecutionTime = 5.491993 s  ClockTime = 5 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+ExecutionTime = 5.537663 s  ClockTime = 6 s
+
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+ExecutionTime = 5.503574 s  ClockTime = 5 s
+
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13121050692157e-09, 1.66620674425312e-06
+Time = 6e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+ExecutionTime = 5.807913 s  ClockTime = 5 s
+
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0434461922373814, Final residual = 2.47417614005735e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+ExecutionTime = 5.917525 s  ClockTime = 6 s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.127527734590601, Final residual = 6.46560587469811e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+ExecutionTime = 5.938337 s  ClockTime = 6 s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.104917165047415, Final residual = 7.02150207685206e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+ExecutionTime = 5.895882 s  ClockTime = 5 s
+
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+ExecutionTime = 5.936378 s  ClockTime = 6 s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+ExecutionTime = 5.902377 s  ClockTime = 6 s
+
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+ExecutionTime = 5.950726 s  ClockTime = 6 s
+
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+ExecutionTime = 5.967107 s  ClockTime = 7 s
+
+ExecutionTime = 5.954673 s  ClockTime = 6 s
+
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+smoothSolver:  Solving for e, Initial residual = 0.0272943617322949, Final residual = 7.07929946769936e-10, No Iterations 2
+ExecutionTime = 6.049784 s  ClockTime = 7 s
+
+Flow time scale min/max = 5.13078135682561e-09, 6.79744593306207e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+ExecutionTime = 6.220873 s  ClockTime = 7 s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+ExecutionTime = 6.217418 s  ClockTime = 6 s
+
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+ExecutionTime = 6.196053 s  ClockTime = 6 s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+ExecutionTime = 6.25158 s  ClockTime = 6 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+ExecutionTime = 6.296381 s  ClockTime = 7 s
+
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+ExecutionTime = 6.262909 s  ClockTime = 6 s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.13078135682561e-09, 1.61884336537596e-06
+Time = 7e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+ExecutionTime = 6.585664 s  ClockTime = 6 s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0375827868317745, Final residual = 2.00605851755415e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.104746506876092, Final residual = 4.75491561714965e-10, No Iterations 2
+ExecutionTime = 6.740269 s  ClockTime = 7 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0887541478917506, Final residual = 5.46815041073686e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+ExecutionTime = 6.723921 s  ClockTime = 6 s
+
+ExecutionTime = 6.772126 s  ClockTime = 7 s
+
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+ExecutionTime = 6.761757 s  ClockTime = 7 s
+
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+ExecutionTime = 6.796602 s  ClockTime = 7 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+ExecutionTime = 6.725568 s  ClockTime = 6 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+smoothSolver:  Solving for e, Initial residual = 0.0245862210279534, Final residual = 6.08321773763317e-10, No Iterations 2
+ExecutionTime = 6.777015 s  ClockTime = 6 s
+
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+ExecutionTime = 6.796579 s  ClockTime = 7 s
+
+ExecutionTime = 6.78446 s  ClockTime = 6 s
+
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+Flow time scale min/max = 5.1303605992134e-09, 6.79744593306207e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+ExecutionTime = 6.971973 s  ClockTime = 7 s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+ExecutionTime = 6.964549 s  ClockTime = 7 s
+
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+ExecutionTime = 6.941574 s  ClockTime = 7 s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 7.011436 s  ClockTime = 7 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+ExecutionTime = 7.071214 s  ClockTime = 8 s
+
+ExecutionTime = 7.02441 s  ClockTime = 7 s
+
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.1303605992134e-09, 1.58968790974922e-06
+Time = 8e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+ExecutionTime = 7.355855 s  ClockTime = 7 s
+
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+ExecutionTime = 7.555581 s  ClockTime = 8 s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0334472664217082, Final residual = 1.6934056182325e-10, No Iterations 2
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0884345789888565, Final residual = 3.70484001925685e-10, No Iterations 2
+ExecutionTime = 7.562231 s  ClockTime = 8 s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Uz, Initial residual = 0.078877043074579, Final residual = 4.54425420472575e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+ExecutionTime = 7.607313 s  ClockTime = 8 s
+
+ExecutionTime = 7.561841 s  ClockTime = 7 s
+
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+ExecutionTime = 7.592284 s  ClockTime = 8 s
+
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+ExecutionTime = 7.550841 s  ClockTime = 7 s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0228629596965973, Final residual = 5.42949340337941e-10, No Iterations 2
+ExecutionTime = 7.602076 s  ClockTime = 7 s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+ExecutionTime = 7.611923 s  ClockTime = 7 s
+
+ExecutionTime = 7.625426 s  ClockTime = 8 s
+
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+Flow time scale min/max = 5.12994986865901e-09, 6.79744593306208e-06
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+ExecutionTime = 7.719043 s  ClockTime = 8 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+ExecutionTime = 7.706596 s  ClockTime = 7 s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+ExecutionTime = 7.687434 s  ClockTime = 7 s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+ExecutionTime = 7.770313 s  ClockTime = 7 s
+
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+ExecutionTime = 7.787135 s  ClockTime = 7 s
+
+ExecutionTime = 7.833876 s  ClockTime = 8 s
+
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+Smoothed flow time scale min/max = 5.12994986865901e-09, 1.57316530925661e-06
+Time = 9e-07s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+ExecutionTime = 8.122886 s  ClockTime = 8 s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+ExecutionTime = 8.297528 s  ClockTime = 9 s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0303853327807306, Final residual = 1.47645190594502e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0759562793482367, Final residual = 3.03331946634865e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0739479686677065, Final residual = 3.92359296509122e-10, No Iterations 2
+ExecutionTime = 8.403981 s  ClockTime = 9 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+ExecutionTime = 8.388777 s  ClockTime = 8 s
+
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+ExecutionTime = 8.443157 s  ClockTime = 9 s
+
+ExecutionTime = 8.426179 s  ClockTime = 9 s
+
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+ExecutionTime = 8.379968 s  ClockTime = 8 s
+
+ExecutionTime = 8.4667 s  ClockTime = 9 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0215425762792043, Final residual = 4.96463264139032e-10, No Iterations 2
+ExecutionTime = 8.431772 s  ClockTime = 8 s
+
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+ExecutionTime = 8.45411 s  ClockTime = 8 s
+
+ExecutionTime = 8.436318 s  ClockTime = 8 s
+
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+ExecutionTime = 8.429145 s  ClockTime = 8 s
+
+ExecutionTime = 8.455217 s  ClockTime = 9 s
+
+Flow time scale min/max = 5.12955074254334e-09, 6.79744593306208e-06
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+ExecutionTime = 8.525343 s  ClockTime = 8 s
+
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+ExecutionTime = 8.595332 s  ClockTime = 9 s
+
+ExecutionTime = 8.550056 s  ClockTime = 8 s
+
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12955074254334e-09, 1.54024049855529e-06
+Time = 1e-06s
+
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+ExecutionTime = 8.886935 s  ClockTime = 8 s
+
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+ExecutionTime = 9.046244 s  ClockTime = 10 s
+
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0280562059045535, Final residual = 1.32817341882258e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+ExecutionTime = 9.217449 s  ClockTime = 10 s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.0662842410390636, Final residual = 2.56107566563197e-10, No Iterations 2
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+smoothSolver:  Solving for Uz, Initial residual = 0.0704006963288254, Final residual = 3.49355511847e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+ExecutionTime = 9.172465 s  ClockTime = 9 s
+
+ExecutionTime = 9.204249 s  ClockTime = 9 s
+
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+ExecutionTime = 9.246926 s  ClockTime = 10 s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+ExecutionTime = 9.215768 s  ClockTime = 9 s
+
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+ExecutionTime = 9.260926 s  ClockTime = 10 s
+
+ExecutionTime = 9.283332 s  ClockTime = 10 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+ExecutionTime = 9.208157 s  ClockTime = 9 s
+
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+ExecutionTime = 9.260803 s  ClockTime = 9 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0212999807937046, Final residual = 4.60712788345625e-10, No Iterations 2
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+ExecutionTime = 9.262487 s  ClockTime = 9 s
+
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+ExecutionTime = 9.285296 s  ClockTime = 10 s
+
+Flow time scale min/max = 5.12916473293253e-09, 6.79744593306208e-06
+ExecutionTime = 9.278438 s  ClockTime = 9 s
+
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+ExecutionTime = 9.35373 s  ClockTime = 10 s
+
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+ExecutionTime = 9.311248 s  ClockTime = 9 s
+
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12916473293253e-09, 1.53641092357591e-06
+Time = 1.1e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+ExecutionTime = 9.641012 s  ClockTime = 9 s
+
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+ExecutionTime = 9.776141 s  ClockTime = 10 s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+ExecutionTime = 9.968711 s  ClockTime = 10 s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+ExecutionTime = 9.926013 s  ClockTime = 10 s
+
+ExecutionTime = 9.957957 s  ClockTime = 10 s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0262608699401913, Final residual = 1.24280989395537e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+ExecutionTime = 10.029021 s  ClockTime = 10 s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.0585049724399481, Final residual = 2.22131163929503e-10, No Iterations 2
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.0704281370281379, Final residual = 3.38301462755638e-10, No Iterations 2
+ExecutionTime = 10.054764 s  ClockTime = 10 s
+
+ExecutionTime = 10.095326 s  ClockTime = 11 s
+
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+ExecutionTime = 10.104632 s  ClockTime = 11 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+ExecutionTime = 10.130058 s  ClockTime = 11 s
+
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 10.117529 s  ClockTime = 11 s
+
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+ExecutionTime = 10.047115 s  ClockTime = 10 s
+
+ExecutionTime = 10.076792 s  ClockTime = 10 s
+
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+ExecutionTime = 10.096002 s  ClockTime = 10 s
+
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+ExecutionTime = 10.094944 s  ClockTime = 10 s
+
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+smoothSolver:  Solving for e, Initial residual = 0.02308088880344, Final residual = 4.47185871109999e-10, No Iterations 2
+ExecutionTime = 10.137528 s  ClockTime = 11 s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Flow time scale min/max = 5.12879327918725e-09, 6.79744593306209e-06
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 10.400779 s  ClockTime = 10 s
+
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12879327918725e-09, 1.5148127365318e-06
+Time = 1.2e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+ExecutionTime = 10.513004 s  ClockTime = 11 s
+
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Ux, Initial residual = 0.0238955714515103, Final residual = 1.48556072362779e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0458924084592643, Final residual = 1.77429944874802e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0756194542304737, Final residual = 4.5542086136505e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0238955714515103, Final residual = 1.48556072362779e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0238955714515103, Final residual = 1.48556072362779e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0458924084592643, Final residual = 1.77429944874802e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0458924084592643, Final residual = 1.77429944874802e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0756194542304737, Final residual = 4.5542086136505e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0756194542304737, Final residual = 4.5542086136505e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0263909307343114, Final residual = 1.00214704869113e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0263909307343114, Final residual = 1.00214704869113e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0263909307343114, Final residual = 1.00214704869113e-09, No Iterations 2
+ExecutionTime = 10.722519 s  ClockTime = 11 s
+
+Flow time scale min/max = 5.12809939209634e-09, 6.79744593306209e-06
+ExecutionTime = 10.674509 s  ClockTime = 10 s
+
+ExecutionTime = 10.706677 s  ClockTime = 10 s
+
+Flow time scale min/max = 5.12809939209634e-09, 6.79744593306209e-06
+Flow time scale min/max = 5.12809939209634e-09, 6.79744593306209e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0238955714515103, Final residual = 1.48556072362779e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0458924084592643, Final residual = 1.77429944874802e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0756194542304737, Final residual = 4.5542086136505e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0238955714515103, Final residual = 1.48556072362779e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0458924084592643, Final residual = 1.77429944874802e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0238955714515103, Final residual = 1.48556072362779e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0263909307343114, Final residual = 1.00214704869113e-09, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0756194542304737, Final residual = 4.5542086136505e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0458924084592643, Final residual = 1.77429944874802e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0756194542304737, Final residual = 4.5542086136505e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+ExecutionTime = 10.778467 s  ClockTime = 10 s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+Flow time scale min/max = 5.12809939209634e-09, 6.79744593306209e-06
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0263909307343114, Final residual = 1.00214704869113e-09, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0263909307343114, Final residual = 1.00214704869113e-09, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+ExecutionTime = 10.877573 s  ClockTime = 11 s
+
+Flow time scale min/max = 5.12809939209634e-09, 6.79744593306209e-06
+ExecutionTime = 10.839288 s  ClockTime = 10 s
+
+Flow time scale min/max = 5.12809939209634e-09, 6.79744593306209e-06
+smoothSolver:  Solving for Ux, Initial residual = 0.0248810477303833, Final residual = 1.24240750844986e-10, No Iterations 2
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+smoothSolver:  Solving for Uy, Initial residual = 0.0515325453851366, Final residual = 1.96318681188926e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0708452676319679, Final residual = 3.55505983065193e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+ExecutionTime = 10.938933 s  ClockTime = 11 s
+
+ExecutionTime = 10.905749 s  ClockTime = 10 s
+
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+ExecutionTime = 10.943951 s  ClockTime = 11 s
+
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+ExecutionTime = 10.971053 s  ClockTime = 11 s
+
+ExecutionTime = 10.881778 s  ClockTime = 10 s
+
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+ExecutionTime = 10.933114 s  ClockTime = 10 s
+
+ExecutionTime = 10.931266 s  ClockTime = 10 s
+
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+smoothSolver:  Solving for e, Initial residual = 0.0247746475357466, Final residual = 4.81831135388759e-10, No Iterations 2
+ExecutionTime = 10.979821 s  ClockTime = 12 s
+
+Flow time scale min/max = 5.12843774100931e-09, 6.79744593306209e-06
+Smoothed flow time scale min/max = 5.12809939209634e-09, 1.51556053516496e-06
+Time = 1.4e-06s
+
+Smoothed flow time scale min/max = 5.12809939209634e-09, 1.51556053516496e-06
+Time = 1.4e-06s
+
+Smoothed flow time scale min/max = 5.12809939209634e-09, 1.51556053516496e-06
+Time = 1.4e-06s
+
+smoothSolver:  Solving for Ux, Initial residual = 0.0238955714515103, Final residual = 1.48556072362779e-10, No Iterations 2
+smoothSolver:  Solving for Uy, Initial residual = 0.0458924084592643, Final residual = 1.77429944874802e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0756194542304737, Final residual = 4.5542086136505e-10, No Iterations 2
+smoothSolver:  Solving for Ux, Initial residual = 0.0238955714515103, Final residual = 1.48556072362779e-10, No Iterations 2
+Smoothed flow time scale min/max = 5.12809939209634e-09, 1.51556053516496e-06
+Time = 1.4e-06s
+
+smoothSolver:  Solving for Uy, Initial residual = 0.0458924084592643, Final residual = 1.77429944874802e-10, No Iterations 2
+smoothSolver:  Solving for Uz, Initial residual = 0.0756194542304737, Final residual = 4.5542086136505e-10, No Iterations 2
+smoothSolver:  Solving for e, Initial residual = 0.0263909307343114, Final residual = 1.00214704869113e-09, No Iterations 2
+ExecutionTime = 11.126132 s  ClockTime = 11 s
+
+Flow time scale min/max = 5.12809939209634e-09, 6.79744593306209e-06
+Smoothed flow time scale min/max = 5.12809939209634e-09, 1.51556053516496e-06
+Time = 1.4e-06s
+
+smoothSolver:  Solving for e, Initial residual = 0.0263909307343114, Final residual = 1.00214704869113e-09, No Iterations 2
+Smoothed flow time scale min/max = 5.12809939209634e-09, 1.51556053516496e-06
+Time = 1.4e-06s
+
+ExecutionTime = 11.215879 s  ClockTime = 12 s
+
+Flow time scale min/max = 5.12809939209634e-09, 6.79744593306209e-06
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12843774100931e-09, 1.51084609645226e-06
+Time = 1.3e-06s
+
+Smoothed flow time scale min/max = 5.12809939209634e-09, 1.51556053516496e-06
+Time = 1.4e-06s
+
+diagonal:  Solving for rho, Initial residual = 0, Final residual = 0, No Iterations 0
+Smoothed flow time scale min/max = 5.12809939209634e-09, 1.51556053516496e-06
+Time = 1.4e-06s
+

@@ -1,0 +1,115 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  12
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    format      ascii;
+    class       dictionary;
+    location    "system";
+    object      fvSolution;
+}
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+/*
+solvers
+{
+    p
+    {
+        solver          GAMG;
+        tolerance       1e-6;
+        relTol          0.01;
+        smoother        DICGaussSeidel;
+        nPreSweeps      0;
+        nPostSweeps     2;
+        cacheAgglomeration true;
+        agglomerator    faceAreaPair;
+        mergeLevels     1;
+    }
+    
+    rhoFinal
+    {
+        solver          smoothSolver;
+        smoother        GaussSeidel;
+        tolerance       1e-06;
+        relTol          0.1;
+    }
+
+    "(U|k|omega|rho|h|rhoFinal|UFinal)"
+    {
+        solver          smoothSolver;
+        smoother        GaussSeidel;
+        tolerance       1e-6;
+        relTol          0.01;
+    }
+}*/
+
+solvers
+{
+    "(rho|rhoU|rhoE).*"
+    {
+        solver          diagonal;
+    }
+
+    "U.*"
+    {
+        solver          smoothSolver;
+        smoother        GaussSeidel;
+        nSweeps         2;
+        tolerance       1e-11;
+        relTol          0.001;
+    }
+
+    "e.*"
+    {
+        $U;
+        relTol          0.01;
+    }
+    "(k|omega).*"
+    {
+        solver          smoothSolver;
+        smoother        GaussSeidel;
+        tolerance       1e-6;
+        relTol          0.01;
+    }
+}
+
+/*
+PIMPLE
+{
+    nNonOrthogonalCorrectors 2;      // Non-orthogonal corrector steps for meshes with non-orthogonal cells.
+    consistent               yes;    // Use a consistent SIMPLE formulation for compressible flows.
+    residualControl
+    {
+        p                   1e-4;   // Residual control for pressure.
+        U                   1e-4;   // Residual control for velocity.
+        "(k|omega)" 1e-4;   // Residual control for turbulence fields.
+        T                   1e-4;   // Residual control for temperature.
+    }
+}
+*/
+
+PIMPLE
+{
+//    momentumPredictor           no;
+    nOuterCorrectors            1;
+    nCorrectors                 3;
+    //nNonOrthogonalCorrectors    1;
+}
+relaxationFactors
+{
+    fields
+    {
+        p               0.3;
+    }
+    equations
+    {
+        U               0.7;
+        "(k|omega|epsilon).*" 0.7;
+    }
+}
+
+// ************************************************************************* //

@@ -1,0 +1,33 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  9
+     \\/     M anipulation  |
+-------------------------------------------------------------------------------
+Description
+    For specified fields, writes out the initial residuals for the first
+    solution of each time step; for non-scalar fields (e.g. vectors), writes
+    the largest of the residuals for each component (e.g. x, y, z).
+
+\*---------------------------------------------------------------------------*/
+
+
+enabled             true;
+
+writeControl        timeStep;
+
+writeInterval       200;
+
+executeControl      timeStep;
+
+executeInterval     200;
+
+log                 true;
+
+
+#includeEtc "caseDicts/postProcessing/numerical/residuals.cfg"
+
+fields  (U T rho p k omega);
+
+// ************************************************************************* //
