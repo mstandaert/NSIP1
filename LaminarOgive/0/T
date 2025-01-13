@@ -15,7 +15,7 @@ FoamFile
 
 dimensions      [0 0 0 1 0 0 0];
 
-internalField   uniform 83.48;
+internalField   uniform 110;
 
 boundaryField
 {
@@ -27,17 +27,19 @@ boundaryField
     {
         type            zeroGradient;
     }
-    
-    inlet
-    {
-        type            fixedValue;
-        value           uniform 83.48;
-    }
     outlet
     {
         type            zeroGradient;
     }
-   
+    inlet
+    {
+        type            fixedValue;
+        value           uniform 82;
+    }
+    centreLeft
+    {
+        type            symmetry;
+    }
     front
     {
         type            wedge;

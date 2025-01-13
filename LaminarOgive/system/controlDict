@@ -24,13 +24,13 @@ startTime       0;
 
 stopAt          endTime;
 
-endTime         3e-2;
+endTime         4.5e-2;
 
 deltaT          1e-7;
 
 writeControl    runTime;
 
-writeInterval   1e-4;
+writeInterval   1e-3;
 
 cycleWrite      0;
 
@@ -47,5 +47,11 @@ timePrecision   6;
 runTimeModifiable true;
 
 adjustTimeStep  no;
+
+functions
+{
+    #include "functions/funcForceCoeff"
+    #include "functions/funcForces"
+}
 
 // ************************************************************************* //

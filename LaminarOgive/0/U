@@ -27,17 +27,19 @@ boundaryField
     {
         type            noSlip;
     }
-    
-    inlet
-    {
-        type            fixedValue;
-        value           uniform (641 0 0);
-    }
     outlet
     {
         type            zeroGradient;
     }
-    
+    inlet
+    {
+        type            fixedValue;
+        value           uniform (635 0 0);
+    }
+    centreLeft
+    {
+        type            symmetry;
+    }
     front
     {
         type            wedge;
